@@ -11,9 +11,8 @@ http:
       name: TikTok
       type: response
       require-body: true
-      timeout: 10
-      
+      timeout: 10    
 script-providers:
-  kuwoD:
+  TikTok:
     url: https://raw.githubusercontent.com/zyceson/scripts/master/k8.js
     interval: 3600
