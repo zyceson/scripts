@@ -1,0 +1,26 @@
+# Microsoft Copilot by Dasmz Version 2023-12-31
+DOMAIN,th.bing.com,PROXY
+DOMAIN,www.bingapis.com,PROXY
+DOMAIN,sapphire.api.microsoftapp.net,PROXY
+DOMAIN,prod.rewardsplatform.microsoft.com,PROXY
+DOMAIN,c.clarity.ms,PROXY
+DOMAIN,c.bing.com,PROXY
+DOMAIN,sydney.bing.com,PROXY
+DOMAIN,www.clarity.ms,PROXY
+DOMAIN,p.clarity.ms,PROXY
+DOMAIN,dealczars.bing-shopping.microsoft-falcon.io,PROXY
+DOMAIN,shopping.bing-shopping.microsoft-falcon.io,PROXY
+DOMAIN,cdn.jsdelivr.net,PROXY
+DOMAIN,logincdn.msauth.net,PROXY
+DOMAIN,account.live.com,PROXY
+DOMAIN,acctcdn.msauth.net,PROXY
+DOMAIN,odc.officeapps.live.com,PROXY
+DOMAIN,substrate.office.com,PROXY
+DOMAIN,ssl.bing.com,PROXY
+DOMAIN,services.bingapis.com,PROXY
+DOMAIN,location.microsoft.com,PROXY
+DOMAIN,api.msn.com,PROXY
+DOMAIN,gateway.bingviz.microsoftapp.net,PROXY
+DOMAIN,in.appcenter.ms,PROXY
+DOMAIN,www.bing.com,PROXY
+DOMAIN,self.events.data.microsoft.com,PROXY
