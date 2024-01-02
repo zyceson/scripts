@@ -49,8 +49,8 @@
         "api": "https://api.1080zyku.com/inc/api.php/provide/vod/"
     },
     {
-        "name": "39影視",
-        "api": "https://www.39kan.com/api.php/provide/vod/"
+        "name": "闪电资源",
+        "api": "http://sdzyapi.com/api.php/provide/vod/"
     },
     {
         "name": "天堂资源",
@@ -61,8 +61,8 @@
         "api": "https://lehootv.com/api.php/provide/vod/"
     },
     {
-        "name": "唐人街",
-        "api": "https://www.tangrenjie.tv/api.php/provide/vod/"
+        "name": "韩剧资源",
+        "api": "http://www.hanjuzy.com/inc/apijson_vod.php"
     },
     {
         "name": "酷点资源",
