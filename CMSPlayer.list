@@ -1,4 +1,7 @@
 # > CMSPlayer
+# RULE-SET,https://raw.githubusercontent.com/zyceson/scripts/master/CMSPlayer.list,Proxy
+# 把Proxy换成你自己的代理名
+
 # 海外看（代理）
 DOMAIN-SUFFIX,haiwaikan.com
 DOMAIN,cdn.iz8qkg.com
