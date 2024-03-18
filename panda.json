@@ -1,28 +1,25 @@
 {
   "sites": [
-    {"name": "欧乐","api": "https://olevod.com/api.php/provide/vod/"},
-    {"name": "低端","api": "https://ddys.pro/api.php/provide/vod/"},
-    {"name": "在线之家","api": "https://zxzja.com/api.php/provide/vod/"},
     {"name":"百度","api":"https://api.apibdzy.com/api.php/provide/vod/"},
     {"name":"海外看","api":"https://haiwaikan.com/api.php/provide/vod/"},
     { "name": "爱坤", "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/"},
     { "name": "光速", "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"},
     { "name": "量子", "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"},
-    { "name": "红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"},
-    { "name": "飞速", "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"},
-    { "name": "天空", "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"},
-    { "name": "非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"}
     {"name": "火狐","api": "https://hhzyapi.com/api.php/provide/vod/"},
     {"name": "速博","api": "https://subocaiji.com/api.php/provide/vod/"},
     {"name": "最大","api": "https://api.zuidapi.com/api.php/provide/vod/"},
     {"name": "快看","api": "https://kuaikan-api.com/api.php/provide/vod/"},
-    {"name": "四圈","api": "https://pg.fenwe078.cf/api.php/provide/vod/"},
     {"name": "闪电","api": "https://sdzyapi.com/api.php/provide/vod/"},
     {"name": "樱花","api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"},
     {"name": "U酷","api": "https://api.ukuapi.com/api.php/provide/vod/"},
     {"name": "金鹰","api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/"},
     {"name": "闪电","api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/"},
     {"name": "卧龙","api": "https://collect.wolongzyw.com/api.php/provide/vod/"},
+    { "name": "红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"},
+    { "name": "飞速", "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"},
+    { "name": "天空", "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"},
+    { "name": "非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"}
+
     
   ],
   "lives": [
