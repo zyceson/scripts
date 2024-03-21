@@ -1,0 +1,9 @@
+#!name=小熊视频去广告
+#!desc=小熊视频去广告规则
+#!category=小熊视频
+
+[Rule]
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,ctobsnssdk.com,REJECT
